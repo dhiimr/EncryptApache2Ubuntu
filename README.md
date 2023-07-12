@@ -8,5 +8,5 @@ Cara Install SSL Let’s Encrypt Wildcard di Apache + Cloudflare
 - Client IP Address Filtering, Is in, Value masukkan IP server.
 - Lalu Continue to summary, Create Token.
 <picture>
-https://musaamin.web.id/wp-content/uploads/2021/06/01.install-ssl-letsencrypt-wildcard-apache-cloudflare_create-cloudflare-api-token.jpg
+<source media="(prefers-color-scheme: dark)" srcset="https://musaamin.web.id/wp-content/uploads/2021/06/01.install-ssl-letsencrypt-wildcard-apache-cloudflare_create-cloudflare-api-token.jpg">
 </picture>
